@@ -1,0 +1,12 @@
+
+
+.carousel-inner .carousel-item img {
+    height:450px;
+    object-fit: cover;
+    object-position: center;
+}
+
+/* .w-100 {
+    width: 100% !important;
+    height: 75vh;
+} */
